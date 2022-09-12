@@ -10,7 +10,7 @@ This is the code which belongs to a blog post you can find here.
 
 ## Usage:
 ```shell
-python run_main_test.py
+python run_main_all_versions_test.py
 ```
 
 ## Monte Carlo Pi estimation
